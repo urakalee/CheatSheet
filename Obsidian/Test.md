@@ -22,7 +22,7 @@
 | Cmd+o               | 打开/新建笔记             |                                   |
 | Cmd+Shift+o         | 打开/新建今日笔记（增）        |                                   |
 | Cmd+e               | 切换编辑/阅读模式           |                                   |
-| Cmd+Shift+t         | 新建tab（改）            |                                   |
+| ~~Cmd+Shift+t~~     | 新建tab（改）            |                                   |
 | Cmd+1/2/3/...       | 切换到tab1、2、3…        |                                   |
 | Cmd+Shift+s         | 拆分窗口/打开右侧编辑器（增）     |                                   |
 | Cmd+Shift+j         | 激活左侧编辑器（增）          |                                   |
