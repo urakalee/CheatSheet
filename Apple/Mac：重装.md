@@ -46,7 +46,7 @@
     1. 部分u盘（adata16）兼容性不好或接触不良，但插好之后也能用
     2. 可用first-aid测试u盘是否可用，不可用时尝试重新插拔
 2. [允许从u盘启动](https://support.apple.com/zh-cn/102522)（不能在恢复出厂设置/抹掉之后，因为需要管理员密码）
-3. Option从u盘启动
+3. 开机后按住Option即可从u盘启动（注意不是Option+Cmd+r）
 4. 抹掉+安装
 
 ### FileVault
